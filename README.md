@@ -63,7 +63,12 @@
 
 ### ✅ Face Detection  
 **Tech Stack:** Python, OpenCV, Mediapipe, NumPy, Pandas <br>
-🔗 [View Project](https://github.com/Kmanaal/Face_detection)  
+🔗 [View Project](https://github.com/Kmanaal/Face_detection) 
+
+
+### ✅ Hospital Admission Data Analysis  
+**Tech Stack:** Python, Seaborn, Matplotlib, NumPy, Pandas, <br>
+🔗 [View Project](https://github.com/Kmanaal/Hospital_admission_DA) 
 
 ---
 
