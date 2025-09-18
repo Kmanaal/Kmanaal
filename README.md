@@ -58,15 +58,12 @@
 
 ### ✅ Hand Gesture Detection (Mediapipe)  
 **Tech Stack:** Python, OpenCV, Mediapipe, NumPy, Pandas  
-🔗 [View Project](https://github.com/Kmanaal/hand-gesture-detection)  
+🔗 [View Project](https://github.com/Kmanaal/Gesture_controlled)  
 
-### ✅ License Plate Recognition  
-**Tech Stack:** Python, YOLOv8, OpenCV, SORT, OCR  
-🔗 [View Project](https://github.com/Kmanaal/license-plate-recognition)  
 
-### ✅ Movie Recommender System  
-**Tech Stack:** Python, Scikit-Learn, NLTK, Streamlit  
-🔗 [View Project](https://github.com/Kmanaal/movie-recommender)  
+### ✅ Face Detection  
+**Tech Stack:** Python, OpenCV, Mediapipe, NumPy, Pandas 
+🔗 [View Project](https://github.com/Kmanaal/Face_detection)  
 
 ---
 
