@@ -44,9 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kmanaal&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kmanaal&theme=radical&border_radius=5" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmanaal&theme=react-dark" alt="GitHub Activity Graph" />
