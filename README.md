@@ -62,7 +62,7 @@
 
 
 ### ✅ Face Detection  
-**Tech Stack:** Python, OpenCV, Mediapipe, NumPy, Pandas 
+**Tech Stack:** Python, OpenCV, Mediapipe, NumPy, Pandas <br>
 🔗 [View Project](https://github.com/Kmanaal/Face_detection)  
 
 ---
