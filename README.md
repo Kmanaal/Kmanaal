@@ -3,10 +3,8 @@
 
 <h3 align="center"> 🤖 Passionate about AI/ML & Computer Vision <br><br>
 
-  
 
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjl3bG02dTZxeTJsZzVpcXlud3U4OGEyeHFvZTFsMnNrbmd1cDh5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif)" width="400" alt="Coding GIF"/>
-
+<img src="artificial-intelligence.gif" alt="Artificial Intelligence GIF" width="400"/>
 
 ---
 
