@@ -4,7 +4,7 @@
 <h3 align="center"> 🤖 Passionate about AI/ML & Computer Vision <br><br>
 
 
-<img src="artificial-intelligence.gif" alt="Artificial Intelligence GIF" width="400"/>
+<img src="ai2.gif" alt="AI2 GIF" width="400"/>
 
 ---
 
