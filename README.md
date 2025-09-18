@@ -1,4 +1,4 @@
-# <h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Manaal+Khan;AI%2FML+Enthusiast;Deep+Learning;Computer+Vision)](https://git.io/typing-svg)
+# <h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00CCFF&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Manaal+Khan;AI%2FML+Enthusiast;Deep+Learning;Computer+Vision)](https://git.io/typing-svg)
 
 <h3 align="center"> 🤖 Passionate about AI/ML & Computer Vision <br><br>
 
