@@ -63,6 +63,11 @@
 🔗 [View Project](https://github.com/Kmanaal/Face_detection) 
 
 
+### ✅ Face Emotion Detection  
+**Tech Stack:** Python, OpenCV, Keras, Deep Learning, NumPy, Pandas, <br>
+🔗 [View Project](https://github.com/Kmanaal/Face_emotion_detection) 
+
+
 ### ✅ Hospital Admission Data Analysis  
 **Tech Stack:** Python, Seaborn, Matplotlib, NumPy, Pandas, <br>
 🔗 [View Project](https://github.com/Kmanaal/Hospital_admission_DA) 
