@@ -1,23 +1,27 @@
-# <h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00CCFF&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Manaal+Khan;AI%2FML+Enthusiast;Deep+Learning;Computer+Vision)](https://git.io/typing-svg)
+# <h1 align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=00CCFF&center=true&vCenter=true&width=435&lines=Hi%2C+I+am+Manaal+Khan;Verilog;FPGAs;Embedded+System;AI%2FML+Enthusiast;Deep+Learning)](https://git.io/typing-svg)
 
-<h3 align="center"> 🤖 Passionate about AI/ML & Computer Vision <br><br>
+<h3 align="center"> ⚡ Passionate about Verilog, FPGA, Embedded Systems & AI/ML <br><br>
 
 
 <img src="ai2.gif" alt="AI2 GIF" width="400"/>
 
 
 ## 🔭 Currently Working On
+- 🔌 Verilog & FPGA Design – Digital logic design, RTL coding, and FPGA implementation
+- 🤖 Embedded Systems – Microcontroller programming, firmware development & hardware-software integration
 - 🤖 **Advanced AI Models** – Machine learning for Computer Vision and Deep Learning 
-- 🖼 **Computer Vision** – Real-time detection & image processing  
+- 🧠 AI/ML – Exploring machine learning and deep learning applications  
 
 ---
 
 ## 👨‍💻 About Me
-- 🤖 AI & ML enthusiast — building smart solutions with data and algorithms
-- 🔋 Electronics & Renewable Energy explorer — passionate about solar and sustainable tech
-- 👁️ Computer Vision explorer — working on real-time detection & image processing with OpenCV   
-- 📚 Lifelong learner — always upgrading skills in AI, data science & engineering  
-- 💡 Driven to create technology that makes a real-world impact  
+- ⚡ Verilog & FPGA enthusiast — designing digital logic and implementing RTL circuits
+- 🤖 Embedded Systems developer — building firmware and hardware-software solutions
+- 🛠️ Arduino maker — prototyping real-world smart systems with sensors and actuators
+- 🧠 AI & ML explorer — integrating intelligence into hardware systems
+- 🔋 Electronics & Renewable Energy explorer — passionate about solar and sustainable tech  
+- 📚 Lifelong learner — always upgrading skills in digital design, embedded dev & AI
+- 💡 Driven to create technology that bridges hardware and intelligent software 
 
 ---
 
@@ -25,7 +29,7 @@
 
 **Languages & Core:**  
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logo=intel&logoColor=white)![System Verilog](https://img.shields.io/badge/SystemVerilog-0071C5?style=for-the-badge&logo=intel&logoColor=white)![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 
 **Frameworks & Libraries:**  
 
