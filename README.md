@@ -29,7 +29,7 @@
 
 **Languages & Core:**  
 
-![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logo=intel&logoColor=white)![System Verilog](https://img.shields.io/badge/SystemVerilog-0071C5?style=for-the-badge&logo=intel&logoColor=white)![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Verilog](https://img.shields.io/badge/Verilog-FF6600?style=for-the-badge&logo=intel&logoColor=white)![System Verilog](https://img.shields.io/badge/SystemVerilog-0071C5?style=for-the-badge&logo=intel&logoColor=white)![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)![FPGAs](https://img.shields.io/badge/FPGA-EE0000?style=for-the-badge&logo=xilinx&logoColor=white)![Embedded](https://img.shields.io/badge/Embedded-A8B9CC?style=for-the-badge&logo=c&logoColor=black)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 
 **Frameworks & Libraries:**  
 
