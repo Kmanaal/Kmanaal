@@ -3,7 +3,7 @@
 <h3 align="center"> ⚡ Passionate about Verilog, FPGA, Embedded Systems & AI/ML <br><br>
 
 
-<img src="ai2.gif" alt="AI2 GIF" width="400"/>
+<img src="Art Pixel GIF by Gogolitus.gif" alt="AI2 GIF" width="400"/>
 
 
 ## 🔭 Currently Working On
